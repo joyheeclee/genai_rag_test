@@ -2,7 +2,6 @@ import streamlit as st
 from PIL import Image
 import google.generativeai as genai
 # import os
-# os.environ["GOOGLE_API_KEY"]="AIzaSyBzWzbc_FRVzI9Tkqkpbfw3Esd1CMD-ZaM"
 
 st.set_page_config(page_title="Gemini Pro with Streamlit", page_icon="♊")
 
